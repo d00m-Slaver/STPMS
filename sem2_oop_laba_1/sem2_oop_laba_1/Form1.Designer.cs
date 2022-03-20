@@ -52,11 +52,11 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.button6 = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.textBox7 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.button6 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -321,6 +321,33 @@
             this.tabPage2.Text = "Окно ввода";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(380, 47);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(117, 41);
+            this.button6.TabIndex = 4;
+            this.button6.Text = "Start Delegate";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(44, 100);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(38, 17);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "LOG";
+            // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(44, 123);
+            this.textBox7.Multiline = true;
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(453, 284);
+            this.textBox7.TabIndex = 2;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -338,39 +365,13 @@
             this.textBox6.TabIndex = 0;
             this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
-            // textBox7
-            // 
-            this.textBox7.Location = new System.Drawing.Point(44, 123);
-            this.textBox7.Multiline = true;
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(453, 284);
-            this.textBox7.TabIndex = 2;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(44, 100);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(38, 17);
-            this.label5.TabIndex = 3;
-            this.label5.Text = "LOG";
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(380, 47);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(117, 41);
-            this.button6.TabIndex = 4;
-            this.button6.Text = "Start Delegate";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.BackgroundImage = global::sem2_oop_laba_1.Properties.Resources._4039640_07e9a5ac730ca854ae9aefff374cdb5d_800;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(687, 514);
             this.Controls.Add(this.tabControl1);
             this.Cursor = System.Windows.Forms.Cursors.No;

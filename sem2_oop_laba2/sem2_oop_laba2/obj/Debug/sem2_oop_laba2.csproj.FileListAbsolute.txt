@@ -1,0 +1,10 @@
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\bin\Debug\sem2_oop_laba2.exe.config
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\bin\Debug\sem2_oop_laba2.exe
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\bin\Debug\sem2_oop_laba2.pdb
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\obj\Debug\sem2_oop_laba2.csprojAssemblyReference.cache
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\obj\Debug\sem2_oop_laba2.Form1.resources
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\obj\Debug\sem2_oop_laba2.Properties.Resources.resources
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\obj\Debug\sem2_oop_laba2.csproj.GenerateResource.cache
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\obj\Debug\sem2_oop_laba2.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\obj\Debug\sem2_oop_laba2.exe
+C:\Users\37529\Desktop\STPMS\sem2_oop_laba2\sem2_oop_laba2\obj\Debug\sem2_oop_laba2.pdb

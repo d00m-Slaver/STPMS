@@ -8,14 +8,17 @@ namespace sem2_oop_laba2
 {
     class Student
     {
-        public List<string> FIO;
-        public int Age;
-        public string Spec;
-        public DateTime Birthday;
-        public int Course;
-        public int Group;
-        public double SrBall;
-        public char Sex;
-        public Adres Addres;
+        List<string> DopInfo;
+        int Age;
+        string FirstName;
+        string FamilyName;
+        string FatherName;
+        string Spec;
+        DateTime Birthday;
+        int Course;
+        int Group;
+        double SrBall;
+        char Sex;
+        Adres Addres;
     }
 }
